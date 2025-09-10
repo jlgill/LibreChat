@@ -1,0 +1,3 @@
+# .github/copilot.yaml
+ignore:
+  - ".github/**"
